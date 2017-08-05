@@ -34,4 +34,4 @@ pip install -r requirements.txt
 
 ## Author
 
-[Sohel Amin](http://www.sohelamin.com)
+Dheeraj
